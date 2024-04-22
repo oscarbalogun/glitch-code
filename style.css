@@ -1,0 +1,110 @@
+/* CSS files add styling rules to your content */
+
+
+body{
+  font-family: comicsansms;
+  Color: 	#FFD700;
+  background-image: URL("https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/Lightning.gif?v=1711389282853");
+background-size:cover;
+  background-position:center;
+  background-attachment: fixed;
+}
+
+
+.title{
+  font-family: impact; 
+  color: #FF0000;
+  font-size: 30px;
+  position: relative;
+  ;
+  
+}
+
+.pretitle{
+  font-family: comicsansms; 
+  color: #E6E6FA ;
+    font-size: 15px;
+      font-weight: bold;
+  position: relative; 
+  top: 40px
+}
+
+h3{
+  font-size: 30px;
+  position:relative;
+  top:75px;
+    left:15%;
+  
+}
+
+
+p1{
+  font-size:25px;
+  width:100%;
+  text-align:center;
+  
+}
+
+p2{
+  font-size:25px;
+    float: right;
+  position:relative;
+      top:-100px;
+  width:100%;
+}
+
+p3{
+  font-size:25px;
+    float: right;
+  position:relative;
+  top:-50px;
+  width:100%;
+}
+
+.column1of5, .column2of5, .column3of5, .column4of5, .column5of5{
+  text-align: center;
+  font-family: comicsansms;
+  font-size:20px;
+  color: #E6E6FA ;
+  position: relative;
+  top: -35px;
+  left:10%;
+  width:15%;
+  height: 10px;
+  float:left;
+  margin:auto;
+  border: 3px black solid;
+  background: #FF0000;
+}
+
+img.pikachu{
+  width:200px;
+  height:auto;
+  position:relative;
+  right:7.5%;
+  top:-160px;
+}
+
+img.horse{
+ 
+  display: block;
+  width:30%;
+  height:auto;
+}
+img.horsegif{
+  display: block;
+  width:30%;
+  height:auto;
+}
+
+.container{
+   background-color: rgba(255,255,255,0.15);
+  float:right;
+  top:-400px;
+  position:relative;
+  width:70%;
+  height:115px;
+  
+}
+
+
