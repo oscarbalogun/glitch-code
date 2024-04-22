@@ -1,0 +1,173 @@
+body {
+  font-family: comicsansms;
+  color: white;
+  opacity: 1;
+  background-image: URL("https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/goku%20background.gif?v=1712786659633");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.title {
+  font-family: impact;
+  color: #ff0000;
+  font-size: 30px;
+  position: relative;
+}
+
+.pretitle {
+  font-family: comicsansms;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  position: relative;
+  top: 40px;
+}
+
+p1 {
+  font-size: 25px;
+  position: ;
+  top: 400px;
+  right: ;
+  width: 1000px;
+  text-align: center;
+}
+
+p2 {
+  font-size: 25px;
+}
+
+p3 {
+  font-size: 25px;
+}
+
+p4 {
+  font-size: 25px;
+}
+
+.column1of5,
+.column2of5,
+.column3of5,
+.column4of5,
+.column5of5 {
+  text-align: center;
+  font-family: comicsansms;
+  font-size: 20px;
+  color: #e6e6fa;
+  position: relative;
+  top: -160px;
+  left: 10%;
+  width: 15%;
+  height: 10px;
+  float: left;
+  margin: auto;
+  border: 3px black solid;
+  background: #ff0000;
+}
+
+img.goku {
+  position: relative;
+  top: -160px;
+  left: 72%;
+  width: 135px;
+  height: auto;
+}
+
+img.css {
+  width: 100%;
+  height: 200px;
+  position: relative;
+}
+
+img.html {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+img.java {
+  width: 100%;
+  height: 200;
+  position: relative;
+}
+
+.titlecontainer {
+  background-color: rgba(0, 0, 0, 0.75);
+  opacity: 1;
+  height: 200px;
+  width: 100%;
+  padding: 5px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: 999;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  position: relative;
+  top: 270px;
+  width: 32%;
+  height: 1625px;
+  float: left;
+  padding: 5px;
+}
+
+.container2 {
+  background-color: rgba(0, 0, 0, 0.6);
+  position: relative;
+  top: 270px;
+  left: 13.75px;
+  width: 32%;
+  height: 1625px;
+  float: left;
+  padding: 5px;
+}
+
+h3 {
+  font-size: 30px;
+  color: #ff0000;
+}
+
+.container3 {
+  background-color: rgba(0, 0, 0, 0.6);
+  position: relative;
+  top: 270px;
+  width: 32%;
+  height: 1625px;
+  left: 27.5px;
+  float: left;
+  padding: 5px;
+}
+
+h4 {
+  font-size: 30px;
+  color: #ff0000;
+  position: relative;
+}
+
+p5 {
+  font-size: 30px;
+  position: relative;
+}
+
+p6 {
+  font-size: 25px;
+  position: relative;
+}
+
+p7 {
+  font-size: 25px;
+  position: relative;
+}
+
+p8 {
+  font-size: 25px;
+  position: relative;
+}
+
+.highlight {
+  background-color: rgba(255, 255, 255, 0.6);
+  width: ;
+  padding: 5px;
+}
