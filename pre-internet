@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Animation and the Internet</title>
+    <link rel="stylesheet" type="text/css" href="style2.css" />
+  </head>
+  <div class="titlecontainer">
+    <center>
+      <div class="title">
+        <h1>PRE-INTERNET</h1>
+      </div>
+    </center>
+
+    <img
+      class="naruto"
+      src="https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/Naruto.gif?v=1711548944005"
+    />
+
+    <center>
+      <div class="column1of5">
+        <h5>
+          <a href="index.html">Home</a>
+        </h5>
+      </div>
+      <div class="column2of5">
+        <h5>
+          <a href="GIFs.html">GIFs</a>
+        </h5>
+      </div>
+      <div class="column3of5">
+        <h5>
+          <a href="Flash.html">Flash</a>
+        </h5>
+      </div>
+      <div class="column4of5">
+        <h5>
+          <a href="CSS.html">CSS/javascript</a>
+        </h5>
+      </div>
+      <div class="column5of5">
+        <h5>
+          <a href="WAAPI.html">WAAPI</a>
+        </h5>
+      </div>
+    </center>
+  </div>
+
+  
+  <div class="container">
+    <img
+      class="vase-painting"
+      src="https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/Vase_painting.svg?v=1711475367965"
+    />
+
+    <img
+      class="vase-animation"
+      src="https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/Vase_animation-1.gif?v=1711475358959"
+    />
+
+    <body>
+      <p1>
+        Evidence of attempts at motion in graphics can be seen all the way back to
+        5,000 years ago. For example, above is a series of paintings found on a
+        vase in Shahr-i Sokhta, in Iran. It depicts a goat climbing a tree to
+        eat leaves and coming back down and is believed to be about 4,500 years
+        old.
+      </p1>
+    </body>
+  </div>
+
+  
+ 
+  <div class="container2">
+    <img
+      class="bison"
+      src="https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/Bison.webp?v=1712249568664"
+    />
+    <p2>
+      This is a cave painting found in the cave of Almtamira, in Spain. It's
+      believed that cave paintings like this were intended to be animated by a
+      flickering fire or passing a torch. In this case, the illusion of motion
+      likely would have been achieved by illuminating different parts of the
+      painting.
+    </p2>
+  </div>
+
+    
+  <center>
+  <div class="container3">
+    <img
+      class="shadows"
+      src="https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/shadows.jpeg?v=1712253110771"
+    />
+    <p3>
+      Another early attempt was the use of shadows to create the illusion of
+      motion. Old texts suggest it originated in China or India but there is
+      also a history of shadow play in Europe using hand puppets.
+    </p3>
+  </div>
+</center>
+  
+  <center>
+  <div class="container4">
+    <img
+      class="magiclantern"
+      src="https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/Magic%20lantern.gif?v=1712333111714"
+    />
+    <p4>
+      The Magic Lantern was invented by Christiaan Huygens in 1659.
+      This creates motion by using paintings on one or more pieces of glass
+      which are then moved by hand or by a small mechanism across a stationary
+      slide which showed the rest of the image. Following this, there were
+      multiple different inventions used to create a similar effect in the 19th
+      century and were likely based on this device. Such as the Thaumatrope in
+      1825, the Zoetrope in 1833 and the praxinoscope in 1879.
+    </p4>
+  </div>
+    </center>
+</html>
