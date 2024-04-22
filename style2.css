@@ -1,0 +1,173 @@
+body{
+  font-family: comicsansms;
+  Color: 	#FF9E00;
+  opacity:1;
+  background-image: URL("https://cdn.glitch.global/7a09e684-fdf1-41fe-923c-4af91f70e0a9/konoha.gif?v=1711555817562");
+  background-size:cover;
+  background-position:center;
+  background-attachment: fixed;
+}
+
+
+.title{
+  font-family: impact; 
+  color: #FF0000;
+  font-size: 30px;
+  position: relative;
+}
+
+.pretitle{
+  font-family: comicsansms; 
+  color: black ;
+    font-size: 15px;
+      font-weight: bold;
+  position: relative; 
+  top: 40px
+}
+
+h3{
+  font-size: 30px;
+  float:right;
+  position:relative;
+  right: 325px;
+}
+
+
+p1{
+  font-size:25px;
+  position:relative;
+  width:100%
+  
+}
+
+p2{
+  font-size:25px;
+    float:right;
+  position:relative;
+  top:150px;
+  width:49%;
+}
+
+p3{
+  font-size:25px;
+    float:left;
+  position:relative;
+      top:35%;
+  width:50%;
+}
+
+p4{
+  font-size:25px;
+    float:right;
+  position:relative;
+      top:100px;
+  width:70%;
+}
+
+.column1of5, .column2of5, .column3of5, .column4of5, .column5of5{
+  text-align: center;
+  font-family: comicsansms;
+  font-size:20px;
+  color: #E6E6FA ;
+  position: relative;
+  top: -35px;
+  left:10%;
+  width:15%;
+  height: 10px;
+  float:left;
+  margin:auto;
+  border: 3px black solid;
+  background: #FF0000;
+}
+
+img.naruto{
+  width:7.5%;
+  height:auto;
+  position:absolute;
+  right:30%;
+  top:25px;
+}
+
+img.vase-painting{
+  width:80%;
+  height:auto;
+  background-color: white;
+  float:left;
+  position: relative;
+  }
+img.vase-animation{
+  width:20%;
+  height:270.5px;
+  float:right;
+  position: relative;
+  
+}
+
+img.bison{
+  position:relative;
+  width:50%;
+    height:auto;
+  top:2.5px;
+}
+
+img.shadows{
+  float: right;
+  position:relative;
+  top:px;
+  width:50%;
+  height:500px;
+}
+
+img.magiclantern{
+  float:left;
+  position:relative;
+  top:px;
+  width:30%;
+  height:500px;
+}
+
+.titlecontainer{
+  background-color: rgba(0,0,0,0.75);
+    opacity: 1;
+  height:200px;
+  width:100%;
+    padding:5px;
+      position:fixed;
+  left:0px;
+  top:0px;
+        z-index: 999;
+}
+
+.container{
+  background-color: rgba(0,0,0,0.6);
+  position:relative;
+  top:300px;
+  width:100%;
+  padding:px;
+}
+
+.container2{
+  background-color: rgba(0,0,0,0.6);
+  position:relative;
+  top:500px;
+  width:100%;
+  padding:px;  
+}
+
+.container3{
+  background-color: rgba(0,0,0,0.6);
+  position:relative;
+  top:800px;
+  width:100%;
+  padding:px; 
+  height: 500px;
+}
+
+.container4{
+  background-color: rgba(0,0,0,0.6);
+  position:relative;
+  top:1000px;
+  width:100%; 
+  height: 500px;
+}
+
